@@ -30,3 +30,7 @@ Optional kann man einen Modus nennen:
 
 **Nachher:**
 > Bitte reserviere telefonisch. Online geht das bei uns noch nicht.
+
+## Lizenz
+
+MIT, siehe [LICENSE](LICENSE).
